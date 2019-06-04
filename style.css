@@ -1,0 +1,38 @@
+h2{
+	font-family: Arial;
+	font-size: 35px;
+}
+p{
+	font-family: Arial;
+	color: grey;
+}
+.parent{
+   background-color:#006666;
+   height: 1000px;
+   width: 1900px;
+   padding-top: 400px;
+
+
+}
+h1{
+	color: white;
+	font-size: 40px;
+	font-family: Arial;
+	margin-left: 90px;
+}
+.helloitsme{
+width: 800px;
+height: 550px;
+margin-left: 100px;
+background-color: white;
+
+
+}
+.helpme{
+width: 800px;
+height: 550px;
+background-color: white;
+}
+.flex{
+	display: flex;
+}
